@@ -1,26 +1,27 @@
----
-title: (1) R as a calculator
-author: "Lasse Ruokolainen, Bilot Consulting Oy"
----
-
-<img src="redstudio.png" 
-style="position:absolute;top:5px;right:30px;" />
+<p align="middle"> <img src="redstudio.png"/> </p>
 
 ---
 
-<br><br>
+<b>Author</b>:  
+<i>Lasse Ruokolainen, Bilot Consulting Oy</i>
 
-<p style='text-align: justify;'>**R** is a free software environment for statistical computing and graphics. One of **R**'s strengths is the ease with which well-designed publication-quality plots can be produced, including mathematical symbols and formulae where needed. Great care has been taken over the defaults for the minor design choices in graphics, but the user retains full control.
-Many users think of R as a statistics system, while it is more of an environment within which statistical techniques are implemented. **R** can be extended (easily) via packages. There are about eight packages supplied with the **R** distribution and many more are available through the CRAN (https://cran.r-project.org/mirrors.html) family of Internet sites covering a very wide range of modern statistics.
-We will begin by explorting the use of **R** as a basic calculator.
-<p>
+<br>
+
+# (1) R as a calculator
+
+<p style='text-align: justify;'><b>R</b> is a free software environment for statistical computing and graphics. One of <b>R</b>'s strengths is the ease with which well-designed publication-quality plots can be produced, including mathematical symbols and formulae where needed. Great care has been taken over the defaults for the minor design choices in graphics, but the user retains full control. <br />
+  
+Many users think of R as a statistics system, while it is more of an environment within which statistical techniques are implemented. <b>R</b> can be extended (easily) via packages. There are about eight packages supplied with the <b>R</b> distribution and many more are available through the CRAN (https://cran.r-project.org/mirrors.html) family of Internet sites covering a very wide range of modern statistics.
+We will begin by explorting the use of <b>R</b> as a basic calculator.
+</p>
 
 ---
 
-<br><br>
+<br>
 
 # Basic operations
-**R** can be used as a calculator in order to perform mathematical operations, for example:
+<b>R</b> can be used as a calculator in order to perform mathematical operations, for example:
+
 ```{r}
 26 + 17
 598 - 43
@@ -35,11 +36,11 @@ We will begin by explorting the use of **R** as a basic calculator.
 
 ---
 
-<br><br>
+<br>
 
 # Assignment
-<p style='text-align: justify;'>Unless an operation is assigned to an *object*, the results will only be printed to the *console*. Conveniently, the result from any operation can be stored in an object, which means the results can be used elsewhere.
-<p>
+<p style='text-align: justify;'>Unless an operation is assigned to an <i>object</i>, the results will only be printed to the *console*. Conveniently, the result from any operation can be stored in an object, which means the results can be used elsewhere. </p>
+  
 ```{r}
 # note the different ways you can make an assignment:
 a = 26 + 17
@@ -62,11 +63,11 @@ c / d
 
 ---
 
-<br><br>
+<br>
 
 # Basic functions
-<p style='text-align: justify;'>Of course, **R** is much much more than just a calculator. The power of **R** is in the availability of a vast number of different functions. There are even hundreds of functions included in the base installation of **R**. Let's look at some very basic functions:
-<p>
+<p style='text-align: justify;'>Of course, **R** is much much more than just a calculator. The power of <b>R</b> is in the availability of a vast number of different functions. There are even hundreds of functions included in the base installation of <b>R</b>. Let's look at some very basic functions: </p>
+
 ```{r}
 # list the content of the working memory:
 ls()
@@ -85,19 +86,19 @@ sum(x)
 summary(x)
 ```
 
-- <p style='text-align: justify;'>**Do it yourself!** Find out how to use the `rnorm` function and generate a series of 100 random numbers with mean of 25.7 and standard deviation of 12.3. Next, figure out how to check the mean and SD of the generated series.
-<p>
+- <p style='text-align: justify;'>**Do it yourself!** Find out how to use the `rnorm` function and generate a series of 100 random numbers with mean of 25.7 and standard deviation of 12.3. Next, figure out how to check the mean and SD of the generated series.</p>
+
 ```{r}
 # your code comes here:
 ```
 
 ---
 
-<br><br>
+<br>
 
 # Libraries
-<p style='text-align: justify;'>The base installation of **R** contains many functions, but often one needs to do something that is not implemented. Luckily, there are countless additional libraries that can be called into **R** to expand its functionality. You can list all installed packages as:
-<p>
+<p style='text-align: justify;'>The base installation of <b>R</b> contains many functions, but often one needs to do something that is not implemented. Luckily, there are countless additional libraries that can be called into <b>R</b> to expand its functionality. You can list all installed packages as:</p>
+
 ```{r,eval=FALSE}
 installed.packages()
 ```
