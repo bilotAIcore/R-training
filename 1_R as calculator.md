@@ -66,7 +66,7 @@ c / d
 <br>
 
 # Basic functions
-<p style='text-align: justify;'>Of course, **R** is much much more than just a calculator. The power of <b>R</b> is in the availability of a vast number of different functions. There are even hundreds of functions included in the base installation of <b>R</b>. Let's look at some very basic functions: </p>
+<p style='text-align: justify;'>Of course, <b>R</b> is much much more than just a calculator. The power of <b>R</b> is in the availability of a vast number of different functions. There are even hundreds of functions included in the base installation of <b>R</b>. Let's look at some very basic functions: </p>
 
 ```{r}
 # list the content of the working memory:
@@ -86,7 +86,7 @@ sum(x)
 summary(x)
 ```
 
-- <p style='text-align: justify;'>**Do it yourself!** Find out how to use the `rnorm` function and generate a series of 100 random numbers with mean of 25.7 and standard deviation of 12.3. Next, figure out how to check the mean and SD of the generated series.</p>
+- **Do it yourself!** Find out how to use the `rnorm` function and generate a series of 100 random numbers with mean of 25.7 and standard deviation of 12.3. Next, figure out how to check the mean and SD of the generated series.
 
 ```{r}
 # your code comes here:
