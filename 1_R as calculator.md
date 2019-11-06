@@ -1,17 +1,9 @@
 ---
 title: (1) R as a calculator
 author: "Lasse Ruokolainen, Bilot Consulting Oy"
-output:
-  html_notebook:
-    toc: yes
-    toc_float: yes
-    collapsed: false
-    theme: united
-    number_sections: true
-    df_print: paged
 ---
 
-<img src="cropped-rstudio copy.png" 
+<img src="redstudio.png" 
 style="position:absolute;top:5px;right:30px;" />
 
 ---
