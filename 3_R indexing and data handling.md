@@ -7,8 +7,6 @@
 
 <br>
 
----
-
 # (3) Indexing and data handling in R
 
 In this part you will become familiar with various ways one can handle 
