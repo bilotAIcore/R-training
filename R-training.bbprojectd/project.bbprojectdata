@@ -7,6 +7,7 @@
 		<string>1A13C439-8B3D-4E05-A420-16DD5A84A4A8</string>
 		<string>B0C28B57-7947-4D52-885E-BE64B886FEC3</string>
 		<string>A2630C75-9590-4920-A31B-193387D0E399</string>
+		<string>236EEF43-41AB-4D69-8AFF-57EC76A8971C</string>
 	</array>
 	<key>ProjectItems</key>
 	<dict>
@@ -56,6 +57,55 @@
 			</dict>
 			<key>ItemName</key>
 			<string>1_R as calculator.md</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>236EEF43-41AB-4D69-8AFF-57EC76A8971C</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9vaxgDAAAAAAQQMAAAAKtVAuQUQvnG5sOWC10hGPME
+				OlK72p6wIvI8hJ2rIXjUFAIAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAGxhc3NlAAAACQAA
+				AAEBAABEb2N1bWVudHMAAAAGAAAAAQEAAEdpdEh1YgAA
+				CgAAAAEBAABSLXRyYWluaW5nAAATAAAAAQEAADRfUiBy
+				ZWFkaW5nIGRhdGEubWQAGAAAAAEGAAAQAAAAIAAAADAA
+				AABEAAAAVAAAAGgAAAAIAAAABAMAAP8BCwAAAAAACAAA
+				AAQDAAC8AREAAAAAAAgAAAAEAwAAzQERAAAAAAAIAAAA
+				BAMAAJsOyAEAAAAACAAAAAQDAABS858CAAAAAAgAAAAE
+				AwAAzwGgAgAAAAAYAAAAAQYAAKQAAAC0AAAAxAAAANQA
+				AADkAAAA9AAAAAgAAAAABAAAQcAt2B64pm8YAAAAAQIA
+				AAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAA
+				BAAAAAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkAAGZpbGU6
+				Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAABQ
+				Bl46AAAACAAAAAAEAABBwaenrxIaSiQAAAABAQAAMTE5
+				OUI0N0MtM0U1Qy00RDA4LTg1NDYtMDk2NDA3OUMzNTFC
+				GAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAAB
+				AAAAAQEAAC8AAAAAAAAAAQUAAMwAAAD+////AQAAAAAA
+				AAAQAAAABBAAAIQAAAAAAAAABRAAAAQBAAAAAAAAEBAA
+				ADQBAAAAAAAAQBAAACQBAAAAAAAAAiAAAAACAAAAAAAA
+				BSAAAHABAAAAAAAAECAAAIABAAAAAAAAESAAALQBAAAA
+				AAAAEiAAAJQBAAAAAAAAEyAAAKQBAAAAAAAAICAAAOAB
+				AAAAAAAAMCAAAAwCAAAAAAAAAcAAAFQBAAAAAAAAEcAA
+				ACAAAAAAAAAAEsAAAGQBAAAAAAAAENAAAAQAAAAAAAAA
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/lasse/Documents/GitHub/R-training/4_R%20reading%20data.md</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./4_R reading data.md</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>4_R reading data.md</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 			<key>UserOverrideItemName</key>
