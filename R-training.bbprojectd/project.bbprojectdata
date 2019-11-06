@@ -8,6 +8,7 @@
 		<string>B0C28B57-7947-4D52-885E-BE64B886FEC3</string>
 		<string>A2630C75-9590-4920-A31B-193387D0E399</string>
 		<string>236EEF43-41AB-4D69-8AFF-57EC76A8971C</string>
+		<string>BF56C2EA-9952-4DE8-9AE6-6209EE07BE5A</string>
 	</array>
 	<key>ProjectItems</key>
 	<dict>
@@ -207,6 +208,55 @@
 			</dict>
 			<key>ItemName</key>
 			<string>2_R data structures.md</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>BF56C2EA-9952-4DE8-9AE6-6209EE07BE5A</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9vaxQDAAAAAAQQMAAAAKd77YuQ4WgYK1y5FUlbHahm
+				yLy4oa9tL1UQUACmR6TeEAIAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAGxhc3NlAAAACQAA
+				AAEBAABEb2N1bWVudHMAAAAGAAAAAQEAAEdpdEh1YgAA
+				CgAAAAEBAABSLXRyYWluaW5nAAAPAAAAAQEAADVfUiBn
+				cmFwaGljcy5tZAAYAAAAAQYAABAAAAAgAAAAMAAAAEQA
+				AABUAAAAaAAAAAgAAAAEAwAA/wELAAAAAAAIAAAABAMA
+				ALwBEQAAAAAACAAAAAQDAADNAREAAAAAAAgAAAAEAwAA
+				mw7IAQAAAAAIAAAABAMAAFLznwIAAAAACAAAAAQDAACN
+				BKACAAAAABgAAAABBgAAoAAAALAAAADAAAAA0AAAAOAA
+				AADwAAAACAAAAAAEAABBwCNgbMmWMRgAAAABAgAAAQAA
+				AAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQDAAAEAAAA
+				AAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmlsZTovLy8M
+				AAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAAAFAGXjoA
+				AAAIAAAAAAQAAEHBp6evEhpKJAAAAAEBAAAxMTk5QjQ3
+				Qy0zRTVDLTREMDgtODU0Ni0wOTY0MDc5QzM1MUIYAAAA
+				AQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAAAAEAAAAB
+				AQAALwAAAAAAAAABBQAAzAAAAP7///8BAAAAAAAAABAA
+				AAAEEAAAgAAAAAAAAAAFEAAAAAEAAAAAAAAQEAAAMAEA
+				AAAAAABAEAAAIAEAAAAAAAACIAAA/AEAAAAAAAAFIAAA
+				bAEAAAAAAAAQIAAAfAEAAAAAAAARIAAAsAEAAAAAAAAS
+				IAAAkAEAAAAAAAATIAAAoAEAAAAAAAAgIAAA3AEAAAAA
+				AAAwIAAACAIAAAAAAAABwAAAUAEAAAAAAAARwAAAIAAA
+				AAAAAAASwAAAYAEAAAAAAAAQ0AAABAAAAAAAAAA=
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/lasse/Documents/GitHub/R-training/5_R%20graphics.md</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./5_R graphics.md</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>5_R graphics.md</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 			<key>UserOverrideItemName</key>
