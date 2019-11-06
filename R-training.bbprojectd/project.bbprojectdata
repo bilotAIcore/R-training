@@ -6,6 +6,7 @@
 	<array>
 		<string>1A13C439-8B3D-4E05-A420-16DD5A84A4A8</string>
 		<string>B0C28B57-7947-4D52-885E-BE64B886FEC3</string>
+		<string>A2630C75-9590-4920-A31B-193387D0E399</string>
 	</array>
 	<key>ProjectItems</key>
 	<dict>
@@ -55,6 +56,56 @@
 			</dict>
 			<key>ItemName</key>
 			<string>1_R as calculator.md</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>A2630C75-9590-4920-A31B-193387D0E399</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9vaygDAAAAAAQQMAAAAN98AMB0n4dJc3r4vbEj5kwk
+				ZgvpbHwubzTegQZ9NQXpJAIAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAGxhc3NlAAAACQAA
+				AAEBAABEb2N1bWVudHMAAAAGAAAAAQEAAEdpdEh1YgAA
+				CgAAAAEBAABSLXRyYWluaW5nAAAhAAAAAQEAADNfUiBp
+				bmRleGluZyBhbmQgZGF0YSBoYW5kbGluZy5tZAAAABgA
+				AAABBgAAEAAAACAAAAAwAAAARAAAAFQAAABoAAAACAAA
+				AAQDAAD/AQsAAAAAAAgAAAAEAwAAvAERAAAAAAAIAAAA
+				BAMAAM0BEQAAAAAACAAAAAQDAACbDsgBAAAAAAgAAAAE
+				AwAAUvOfAgAAAAAIAAAABAMAAD7/nwIAAAAAGAAAAAEG
+				AAC0AAAAxAAAANQAAADkAAAA9AAAAAQBAAAIAAAAAAQA
+				AEHAItDheH86GAAAAAECAAABAAAAAAAAAA8AAAAAAAAA
+				AAAAAAAAAAAIAAAABAMAAAQAAAAAAAAABAAAAAMDAAD1
+				AQAACAAAAAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50
+				b3NoIEhECAAAAAQDAAAAUAZeOgAAAAgAAAAABAAAQcGn
+				p68SGkokAAAAAQEAADExOTlCNDdDLTNFNUMtNEQwOC04
+				NTQ2LTA5NjQwNzlDMzUxQhgAAAABAgAAgQAAAAEAAADv
+				EwAAAQAAAAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEF
+				AADMAAAA/v///wEAAAAAAAAAEAAAAAQQAACUAAAAAAAA
+				AAUQAAAUAQAAAAAAABAQAABEAQAAAAAAAEAQAAA0AQAA
+				AAAAAAIgAAAQAgAAAAAAAAUgAACAAQAAAAAAABAgAACQ
+				AQAAAAAAABEgAADEAQAAAAAAABIgAACkAQAAAAAAABMg
+				AAC0AQAAAAAAACAgAADwAQAAAAAAADAgAAAcAgAAAAAA
+				AAHAAABkAQAAAAAAABHAAAAgAAAAAAAAABLAAAB0AQAA
+				AAAAABDQAAAEAAAAAAAAAA==
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/lasse/Documents/GitHub/R-training/3_R%20indexing%20and%20data%20handling.md</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./3_R indexing and data handling.md</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>3_R indexing and data handling.md</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 			<key>UserOverrideItemName</key>
