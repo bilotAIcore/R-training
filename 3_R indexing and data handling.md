@@ -15,6 +15,7 @@ and manipulate objects and data in **R**.
 ---
 
 <br>
+
 # Indexing
 So far we have considered objects as a whole, but this is (of course!) not 
 the end of the line. One can conveniently access, select, remove, and 
