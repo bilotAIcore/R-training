@@ -48,7 +48,7 @@ Koulutuksen sisältö noudataa seuraavaa rakennetta, mutta sisältö
 voidaan räätälöidä tarpeen mukaan:
 
 1. Mikä on R?  
-2. Data rakenteet ja tietotyypit  
+2. Datarakenteet ja tietotyypit  
 3. Datan hallinta ja manipulointi  
 4. Kontrollirakenteet ja funktiot  
 5. Visualisointi  
