@@ -26,7 +26,9 @@ Uusimmat menetelmät implementoidaan yleensä ensimmäisenä juuri R-kieleen.
 
 ## *Ennen koulutusta*
 <p>Koulutuksessa käytämme R-studiota, jonka voi käydä asentamassa 
-<a href="https://rstudio.com/products/rstudio/download/">täältä</a>.
+<a href="https://rstudio.com/products/rstudio/download/">täältä</a> (Desktop-versio).
+Tämän lisäksi tulee asentaa myös R, joka taas löytyy
+  <a href="https://cran.r-project.org">täältä</a>.
 Käsiteltävät asiat on käyty läpi Chapters-kansiossa olevissa tiedostoissa.
 html-kansiosta löytyy html-versiot materiaalista.
 </p>
@@ -46,7 +48,7 @@ Koulutuksen sisältö noudataa seuraavaa rakennetta, mutta sisältö
 voidaan räätälöidä tarpeen mukaan:
 
 1. Mikä on R?  
-2. Data rakenteet ja tietotyypit  
+2. Datarakenteet ja tietotyypit  
 3. Datan hallinta ja manipulointi  
 4. Kontrollirakenteet ja funktiot  
 5. Visualisointi  
