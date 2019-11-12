@@ -30,33 +30,33 @@ Take the 3rd row of `matrix1`. Use any two values in the
 resulting vector and multiply these values with any two
 values in `vector2`:
 ```r
-matrix1[] * vectro2[]
+matrix1[] * vector2[]
 ```
 
-# (6) Remove columns
+## (6) Remove columns
 Remove columns the last column in matrix1 and save the resulting matrix:
 ```r
 matrix2 = matrix1[]
 ```
  
-# (7) Create a new column 
+## (7) Create a new column 
 Create a new column in matrix2, as a sum of all rows in matrix2:
 ```r
 matrix2 = cbind()
 ```
 
-# (8) Load data
+## (8) Load data
 Load the Orange data:
 ```r
 data()
 ```
 
-# (9) Calculate summary:
+## (9) Calculate summary:
 Calculate the summary of this data:
 ```r
 ```
 
-# (10) Save data to disk
+## (10) Save data to disk
 Save the Orange data to disk with a new name, as a tab-separated file:
 ```r
 ```
