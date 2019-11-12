@@ -42,7 +42,7 @@ matrix2 = matrix1[]
 # (7) Create a new column 
 Create a new column in matrix2, as a sum of all rows in matrix2:
 ```r
-matrix2 = 
+matrix2 = cbind()
 ```
 
 # (8) Load data
