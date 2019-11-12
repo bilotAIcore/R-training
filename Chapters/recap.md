@@ -30,7 +30,7 @@ Take the 3rd row of `matrix1`. Use any two values in the
 resulting vector and multiply these values with any two
 values in `vector2`:
 ```r
-
+matrix1[] * vectro2[]
 ```
 
 # (6) Remove columns
