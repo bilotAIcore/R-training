@@ -40,13 +40,13 @@ matrix2 = matrix1[]
 ```
  
 ## (7) Create a new column 
-Create a new column in matrix2, as a sum of all rows in matrix2:
+Create a new column in `matrix2`, as a sum of all rows in `matrix2`:
 ```r
 matrix2 = cbind()
 ```
 
 ## (8) Load data
-Load the Orange data:
+Load the `Orange` data:
 ```r
 data()
 ```
@@ -57,6 +57,13 @@ Calculate the summary of this data:
 ```
 
 ## (10) Save data to disk
-Save the Orange data to disk with a new name, as a tab-separated file:
+Save the `Orange` data to disk with a new name, as a tab-separated file:
 ```r
+write.table()
+```
+
+## (11) Aggregate
+Aggregate the Orange data to get the maximum circumference per tree:
+```r
+aggregate()
 ```
